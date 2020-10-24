@@ -16,24 +16,24 @@ These are the total number of cases in each State and UT.
 
 <img src="Data_Analysis_Images/TotalCured.png" height=300 width=500>
 
-Here we see the total number of cases that have been cured.
+The total number of cases that have been cured are also rising as more and more people are getting recovered everyday.
 
 <img src="Data_Analysis_Images/DailyCured.png" height=300 width=500>
 
-Here we see the number of cases that have been cured daily.
+And the number of cases that are being cured daily have dropped over the past few weeks as the daily number of new cases have dropped also.
 
 <img src="Data_Analysis_Images/StateCured.png" height=300 width=500>
 
-Here we see the total number of cases that have been cured in each State and UT.
+These the total number of cases that have been cured in each State and UT.
 
 <img src="Data_Analysis_Images/TotalDeaths.png" height=300 width=500>
 
-Here we see the total number of people who have died.
+The total number of people who have died are rising but at a very low rate as the recovery rate is much higher than the death rate.
 
 <img src="Data_Analysis_Images/DailyDeaths.png" height=300 width=500>
 
-Here we see the number of people who have died daily.
+The number of people who are dying daily have seen a significant drop as the time passes
 
 <img src="Data_Analysis_Images/StateDeaths.png" height=300 width=500>
 
-Here we see the total number of people who have died in each State and UT.
+These are total number of people who have died in each State and UT.
